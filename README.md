@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 
 ![Mikael GitHub stats](https://github-readme-stats.vercel.app/api?username=mika-font&show_icons=true&theme=tokyonight)
-## 
+
 ## Tecnologias
 <div style="display: inline-block"></br>
     <img style="aling: center" alt="HTML 5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
