@@ -5,6 +5,7 @@
 ### Oie! Eu sou o Mikael Fontoura 😉
 
 ◊ 👨‍💻 Cursando 1° Semestre de Engenharia da Computação pela UFSM 
+
 ◊ 💻 Técnico em Informática pelo IFFar - Campus Uruguaiana
 
 ◊ ⌛ Sou alguém curioso, organizado e que está constantemente se aperfeiçoando.
