@@ -4,12 +4,10 @@
 
 ### Oie! Eu sou o Mikael Fontoura 😉
 
-◊ 📚 Estudando atualmente JavaScript
-
-◊ 👨‍💻 Graduando em Engenharia da Computação pela UFSM 
+◊ 👨‍💻 Cursando 1° Semestre de Engenharia da Computação pela UFSM 
 ◊ 💻 Técnico em Informática pelo IFFar - Campus Uruguaiana
 
-◊ ⌛ Sou alguém curioso, proativo e que está constantemente se aperfeiçoando.
+◊ ⌛ Sou alguém curioso, organizado e que está constantemente se aperfeiçoando.
 
 ##
 
