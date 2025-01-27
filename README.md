@@ -4,7 +4,7 @@
 
 ### Oie! Eu sou o Mikael Fontoura 😉
 
-◊ 👨‍💻 Cursando 1° Semestre de Engenharia da Computação pela UFSM 
+◊ 👨‍💻 Cursando 2° Semestre de Engenharia da Computação pela UFSM 
 
 ◊ 💻 Técnico em Informática pelo IFFar - Campus Uruguaiana
 
@@ -28,6 +28,8 @@ Em desenvolvimento...
     <img style="aling: center" height="30" width="40" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     <img style="aling: center" height="30" width="40" alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
     <img style="aling: center" height="30" width="40" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+    <img style="aling: center" height="30" width="40" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+    <img style="aling: center" height="30" width="40" alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 </div>
 
 <div style="display: inline-block">
@@ -44,5 +46,3 @@ Em desenvolvimento...
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikael-fontoura-do-nascimento-6724a22b7)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fontoura_mikael/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
-
