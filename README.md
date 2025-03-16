@@ -2,9 +2,9 @@
     <h1 style="display: inline-block">Hello World</h1>
 </div>
 
-### Oie! Eu sou o Mikael Fontoura 😉
+### Oie! Eu sou o (Mika)el Fontoura 😉
 
-◊ 👨‍💻 Cursando 2° Semestre de Engenharia da Computação pela UFSM 
+◊ 👨‍💻 Graduando em Engenharia da Computação pela UFSM 
 
 ◊ 💻 Técnico em Informática pelo IFFar - Campus Uruguaiana
 
