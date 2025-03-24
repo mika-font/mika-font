@@ -2,11 +2,11 @@
     <h1 style="display: inline-block">Hello World</h1>
 </div>
 
-### Oie! Eu sou o (Mika)el Fontoura 😉
+### Oiie! Eu sou o (Mika)el Fontoura 😉
 
-◊ 👨‍💻 Graduando em Engenharia da Computação pela UFSM 
+◊ 👨‍💻 Graduando em Engenharia da Computação pela UFSM
 
-◊ 💻 Técnico em Informática pelo IFFar - Campus Uruguaiana
+◊ 💻 Técnico em Informática pelo IFFar Uruguaiana
 
 ◊ ⌛ Sou alguém curioso, organizado e que está constantemente se aperfeiçoando.
 
@@ -15,14 +15,10 @@
 ![Mikael GitHub stats](https://github-readme-stats.vercel.app/api?username=mika-font&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mika-font&layout=compact&theme=tokyonight)
 
-## Portfolio
-
-Em desenvolvimento...
-
 ## Habilidades
 
 <div style="display: inline-block">
-    <h3>Linguagens</h3>
+    <h3>Tecnologias</h3>
     <img style="aling: center" height="30" width="40" alt="HTML 5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
     <img style="aling: center" height="30" width="40" alt="CSS 3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
     <img style="aling: center" height="30" width="40" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -46,3 +42,9 @@ Em desenvolvimento...
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikael-fontoura-do-nascimento-6724a22b7)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fontoura_mikael/)
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mika-font/mika-font/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mika-font/mika-font/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mika-font/mika-font/output/github-contribution-grid-snake.svg">
+</picture>
