@@ -1,5 +1,5 @@
 <div align="center">
-    <h1 style="display: inline-block">Hello World</h1>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=38B3F7&center=true&width=435&lines=Hello+World" alt="Typing SVG" /></a>
 </div>
 
 ### Oiie! Eu sou o (Mika)el Fontoura 😉
@@ -37,6 +37,8 @@
 <div><br>
     <img style="aling: center" alt="Gif Mario" height="auto" width="100%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 </div>
+
+
 
 ## Contato
 
