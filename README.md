@@ -2,7 +2,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=38B3F7&center=true&width=435&lines=Hello+World" alt="Typing SVG" /></a>
 </div>
 
-### Oiie! Eu sou o (Mika)el Fontoura 😉
+### Hii! Eu sou o Mikael Fontoura 😉
 
 ◊ 👨‍💻 Graduando em Engenharia da Computação pela UFSM
 
