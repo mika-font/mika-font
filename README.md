@@ -2,11 +2,11 @@
 
 <div align="center">
   <a href="https://github.com/mika-font">
-    <img alt="profile views" src="https://komarev.com/ghpvc/?username=mika-font&color=blue&style=flat"/>
+    <img alt="profile views" src="https://komarev.com/ghpvc/?username=mika-font&color=550202&style=flat"/>
   </a>
   
   <a href="https://mika-font.github.io/">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-mika-font?000?style=for-the-badge&logo=github"/>
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-mika-font?000?style=for-the-badge&color=550202&logo=github"/>
   </a>
 
 </div>
