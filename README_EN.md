@@ -9,47 +9,49 @@
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-mika-font?000?style=for-the-badge&logo=github"/>
   </a>
 
-  <a href="README.md"> Português </a> | <a href="README_EN.md"> English </a>
+<a href="README.md"> Português </a> | <a href="README_EN.md"> English </a>
 
 </div>
 
+
+
 ---
 
-### Sobre Mim 👋
+### About Me 👋
 
-Me chamo Mikael Fontoura, sou estudante de Engenharia da Computação. Sou apaixonado por ciência, tecnologia e astronomia. Meus principais interesses incluem robótica, desenvolvimento de hardware e computação quântica. Atualmente, estou focando meus estudos em Sistemas Digitais.
+I'm Mikael Fontoura, a Computer Engineering student. I am passionate about science, technology, and astronomy. My main interests include robotics, hardware development, and quantum computing. Currently, I am focusing my studies on Digital Systems.
 
-🎓 Graduando em Engenharia de Computação pela UFSM.
+🎓 Pursuing a degree in Computer Engineering at UFSM.
 
-💡 Técnico em Informática.
+💡 Certified IT Technician.
 
 📖 _"La lecture agrandit l'âme."_ — Voltaire
 
-## Conhecimentos 🛠️
+## Tech Stack 🛠️
 
 <div align="center">
 
-### Linguagens
+### Languages
 
 <img alt="Python" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 
-### Desenvolvimento Web
+### Web Development
 
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
-### Ferramentas e Frameworks
+### Tools and Frameworks
 
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img alt="SolidWorks" src="https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=solidworks&logoColor=white">
 
-### Ferramentas de Escritório
+### Office Tools
 
 <img alt="Overleaf" src="https://img.shields.io/badge/Overleaf-179C9F?style=for-the-badge&logo=overleaf&logoColor=white">
 <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
@@ -62,7 +64,7 @@ Me chamo Mikael Fontoura, sou estudante de Engenharia da Computação. Sou apaix
 
 </div>
 
-## Estatísticas do GitHub 📊
+## Stats 📊
 
 <div align="center">
 
@@ -73,7 +75,7 @@ Me chamo Mikael Fontoura, sou estudante de Engenharia da Computação. Sou apaix
 
 </div>
 
-## Contato 📫
+## Contact Me 📫
 
 [![Gmail](https://img.shields.io/badge/Gmail-550202?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mikaelfontoura29@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-550202?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikael-fontoura-do-nascimento-6724a22b7)
