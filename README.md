@@ -65,7 +65,7 @@ I'm Mikael Fontoura, a Computer Engineering student. I am passionate about scien
 
 <div align="center">
 
-[![GitHub Readme Stats](https://github-stats-extended.vercel.app/api?username=mika-font&show_icons=true&theme=midnight-purple&card_width=320)](https://github.com/anuraghazra/github-readme-stats-extended)
+[![GitHub Readme Stats](https://github-stats-extended.vercel.app/api?username=mika-font&show_icons=true&theme=midnight-purple&card_width=400)](https://github.com/anuraghazra/github-readme-stats-extended)
 [![Top Languages](https://github-readme-stats-extended.vercel.app/api/top-langs?username=mika-font&theme=midnight-purple&layout=compact&langs_count=8&card_width=320)](https://github.com/anuraghazra/convoychat)
 
 </div>
